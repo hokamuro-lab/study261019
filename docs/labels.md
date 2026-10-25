@@ -25,6 +25,8 @@ Issueがどんな学習かをあとから見てもわかるように、最低で
 
 ## 教科
 
+- `subject:pe`: 体育の学習です
+
 - `subject:math`: 数学の学習です
 - `subject:english`: 英語の学習です
 - `subject:japanese`: 国語の学習です
